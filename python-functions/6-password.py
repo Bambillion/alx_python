@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def validate_password(password):
     #check length (at least 8 characters)
     if len(password) < 8:
