@@ -1,5 +1,6 @@
 '''
 My Square Class
+
 This module contains the square class.
 This square class represents a square with a specified size. It has a private attribute __size
 which stores the size of the square 
